@@ -17,7 +17,7 @@ public class KsionzkoApp extends JFrame {
     private Tabela model;
 
     public KsionzkoApp() {
-        super("Biblioteka ale fancy");
+        super("Biblioteka");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(600, 400);
         setLayout(new BorderLayout());
